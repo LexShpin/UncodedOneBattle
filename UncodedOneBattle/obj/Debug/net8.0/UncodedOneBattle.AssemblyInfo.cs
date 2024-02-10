@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UncodedOneBattle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95ee102b3218de841af1054eeccf3f1946e4f80d")]
 [assembly: System.Reflection.AssemblyProductAttribute("UncodedOneBattle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UncodedOneBattle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

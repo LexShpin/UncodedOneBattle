@@ -1,0 +1,15 @@
+/Users/alexandershpin/Desktop/C#/UncodedOneBattle/UncodedOneBattle/bin/Debug/net8.0/UncodedOneBattle
+/Users/alexandershpin/Desktop/C#/UncodedOneBattle/UncodedOneBattle/bin/Debug/net8.0/UncodedOneBattle.deps.json
+/Users/alexandershpin/Desktop/C#/UncodedOneBattle/UncodedOneBattle/bin/Debug/net8.0/UncodedOneBattle.runtimeconfig.json
+/Users/alexandershpin/Desktop/C#/UncodedOneBattle/UncodedOneBattle/bin/Debug/net8.0/UncodedOneBattle.dll
+/Users/alexandershpin/Desktop/C#/UncodedOneBattle/UncodedOneBattle/bin/Debug/net8.0/UncodedOneBattle.pdb
+/Users/alexandershpin/Desktop/C#/UncodedOneBattle/UncodedOneBattle/obj/Debug/net8.0/UncodedOneBattle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandershpin/Desktop/C#/UncodedOneBattle/UncodedOneBattle/obj/Debug/net8.0/UncodedOneBattle.AssemblyInfoInputs.cache
+/Users/alexandershpin/Desktop/C#/UncodedOneBattle/UncodedOneBattle/obj/Debug/net8.0/UncodedOneBattle.AssemblyInfo.cs
+/Users/alexandershpin/Desktop/C#/UncodedOneBattle/UncodedOneBattle/obj/Debug/net8.0/UncodedOneBattle.csproj.CoreCompileInputs.cache
+/Users/alexandershpin/Desktop/C#/UncodedOneBattle/UncodedOneBattle/obj/Debug/net8.0/UncodedOneBattle.sourcelink.json
+/Users/alexandershpin/Desktop/C#/UncodedOneBattle/UncodedOneBattle/obj/Debug/net8.0/UncodedOneBattle.dll
+/Users/alexandershpin/Desktop/C#/UncodedOneBattle/UncodedOneBattle/obj/Debug/net8.0/refint/UncodedOneBattle.dll
+/Users/alexandershpin/Desktop/C#/UncodedOneBattle/UncodedOneBattle/obj/Debug/net8.0/UncodedOneBattle.pdb
+/Users/alexandershpin/Desktop/C#/UncodedOneBattle/UncodedOneBattle/obj/Debug/net8.0/UncodedOneBattle.genruntimeconfig.cache
+/Users/alexandershpin/Desktop/C#/UncodedOneBattle/UncodedOneBattle/obj/Debug/net8.0/ref/UncodedOneBattle.dll
